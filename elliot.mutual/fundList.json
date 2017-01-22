@@ -5,14 +5,14 @@
         {"units":202.858, "cost":2427.74,  "minPay":2000, "maxPay":3000.0, "name":"JPM US Aggregate Bond A (inc) USD" },
         {"units":186.034, "cost":2006.00,  "minPay":2000, "maxPay":3000.0, "name":"JPM US Growth A (dist) USD" },
         {"units":48.754,  "cost":7532.19,  "minPay":2000, "maxPay":3000.0, "name":"JPM Global High Yield Bd A (acc) USD" },
-        {"units":1121.906,"cost":17951.77, "minPay":2000, "maxPay":3000.0, "name":"JPM Global Corp Bd A (acc) USD" },
-        {"units":74.119,  "cost":12116.87, "minPay":2000, "maxPay":3000.0, "name":"JPM Global Income A (acc) USD" },
+        {"units":1244.046,"cost":19957.97, "minPay":2000, "maxPay":3000.0, "name":"JPM Global Corp Bd A (acc) USD" },
+        {"units":39.534,  "cost":6462.97,  "minPay":2000, "maxPay":3000.0, "name":"JPM Global Income A (acc) USD" },
         {"units":376.609, "cost":17917.19, "minPay":2000, "maxPay":3000.0, "name":"JPM China A (dist) USD" },
         {"units":70.73,   "cost":2172.28,  "minPay":2000, "maxPay":3000.0, "name":"JPM Greater China A (dist) USD" },
         {"units":13.224,  "cost":2004.4,   "minPay":2000, "maxPay":3000.0, "name":"JPM America Equity A (dist) USD" },
         {"units":10.971,  "cost":1925.34,  "minPay":2000, "maxPay":3000.0, "name":"JPM US Smlr Coms A (dist) perf USD" },
         {"units":282.868, "cost":3105.89,  "minPay":2000, "maxPay":3000.0, "name":"JPM US Technology A (dist) USD" },
-        {"units":0.0,     "cost":0.001,    "minPay":2000, "maxPay":3000.0, "name":"JPM US Value A (dist) - USD" },
+        {"units":80.516,  "cost":2006.4,   "minPay":2000, "maxPay":3000.0, "name":"JPM US Value A (dist) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2000, "maxPay":3000.0, "name":"JPM Latin America Eq A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2000, "maxPay":3000.0, "name":"JPM Europe Dynamic A (acc) USD" },
         {"units":0.0,     "cost":0.0001,   "minPay":2000, "maxPay":3000.0, "name":"JPM Europe Equity A (dist) USD" }
@@ -22,7 +22,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":70807.83, "principal":160000.00, "minReturn":0.10, "leverage":2.05, "payMode":"cost"}
+        {"buffer":72678.73, "principal":160000.00, "minReturn":0.10, "leverage":2.05, "payMode":"cost"}
     }
     
 }
